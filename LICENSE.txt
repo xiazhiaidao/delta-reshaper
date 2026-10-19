@@ -29,8 +29,12 @@ Copyright (c) 2026 xiazhiaidao. All Rights Reserved.
    《三角洲行动》(Delta Force) 及其权利方无任何隶属关系，亦未获其授权。
 2. "三角洲行动"、"Delta Force" 及相关名称、角色、标志的著作权与商标权
    归其各自权利方所有。
-3. 本作品参考了《三角洲行动》的视觉与音频表现，其中部分音效片段来源于
-   游戏资源，仅作个人学习与同人创作之用。
+3. 本作品参考了《三角洲行动》的视觉与音频表现。其中音效片段从第三方发布的
+   录屏视频中提取，来源为：
+     抖音 @哲儿都能行 —《20秒看懂新刀皮》
+     https://v.douyin.com/Y7uGMCnyV1k/
+   该视频版权归其作者所有；本项目仅作同人创作与学习参考之用，不代表原视频
+   作者认可或参与本项目。
 4. 若任何权利方认为本作品侵犯其权益，请联系作者，作者将立即停止分发
    并移除相关内容。
 5. 本作品依赖 TaCZ (Timeless and Classics Zero) 与 LR Tactical，二者分别
@@ -55,9 +59,11 @@ logos remain the property of their respective owners.
    extracting models, textures, materials, shaders, animations or audio for
    use in other works; ANY commercial use, including resale, paid bundles,
    paywalls or paid download mirrors; removing this file or the credits.
-3. Some sound excerpts are derived from the original game and are included for
-   personal / non-commercial fan use only. Rights holders may contact the author
-   to have the material removed, and it will be removed promptly.
+3. Sound excerpts were extracted from a publicly posted gameplay recording:
+   TikTok/Douyin @ZheErDouNengXing - "20s look at the new knife skin",
+   https://v.douyin.com/Y7uGMCnyV1k/ . Rights to that video belong to its author;
+   it is used here for fan-creation reference only and does not imply endorsement.
+   Rights holders may contact the author to have the material removed.
 4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 Contact / 联系方式: <在此填写你的联系邮箱或主页>
