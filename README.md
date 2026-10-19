@@ -60,8 +60,15 @@
 
 ## 预览
 
-- `preview/full-source-comparison.mp4` — 原视频（左）与实机（右）23.5 秒同步对比，双声道
-- `preview/full-comparison-check.jpg` — 六个时间点抽帧核对
+### 🎬 [▶ 点击观看对比视频](https://github.com/xiazhiaidao/delta-reshaper/releases/download/v1.2.0/full-source-comparison.mp4)
+
+原视频（左）/ 实机（右）· 23.5 秒原速 · 双声道 · 2560×792
+
+也可以在仓库里直接播放：[preview/full-source-comparison.mp4](preview/full-source-comparison.mp4)
+
+### 抽帧核对
+
+![六时间点对比](preview/full-comparison-check.jpg)
 
 ---
 
