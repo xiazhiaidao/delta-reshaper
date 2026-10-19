@@ -1,0 +1,18 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Java / Forge
+*.log
+crash-reports/
+run/
+.idea/
+.gradle/
+build/
+
+# 本项目生成物（不要提交）
+# 注意：mod/ 下的发布 jar 是要提交的，别加进来
+*.bak
+*.orig.jar
+*.tmp
